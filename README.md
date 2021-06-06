@@ -2,6 +2,7 @@
 -----
 ![bookСover](bookСover.png "Java philosophy")
 
+
 *Ссылка на книгу [Ozon.com](https://www.ozon.ru/product/filosofiya-java-142431463/?utm_source=google&utm_medium=cpc&utm_campaign=RF_Regstore_Product_DSA_NewClients&gclid=Cj0KCQjw5PGFBhC2ARIsAIFIMNd2V-VOS6xlzNoQWyuVCnxHO3cnfbFelSDITyz7IQpBZ_HPOJwNxpYaAs4FEALw_wcB)*
 
 Проект по книге Java philosophy 
