@@ -1,4 +1,4 @@
-## Spring 5 Design Patterns 
+## Java philosophy
 -----
 ![bookСover](bookСover.png "Java philosophy")
 
